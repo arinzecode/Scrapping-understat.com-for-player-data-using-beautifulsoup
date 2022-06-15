@@ -1,1 +1,1 @@
-Scrapping Understat for player and match data. 
+Scrapping Understat for player and match data using BeautifulSoup

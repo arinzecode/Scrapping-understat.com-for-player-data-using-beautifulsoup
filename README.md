@@ -1,1 +1,1 @@
-Scrapping understat.com for player data. 
+Scrapping Understat for player and match data. 
